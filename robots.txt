@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loogahzohg.suiwo.xyz/sitemap.xml
